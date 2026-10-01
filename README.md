@@ -52,6 +52,6 @@ java UniversityPayrollMain
 
 ## Author
 
-**Abd-Elrahman**
+**Abd-Elrahman Bahaa**
 Computer Science student at Tanta University | Software Testing trainee (DEPI)
 [LinkedIn](https://linkedin.com/in/abdelrahmanbahaa07)
